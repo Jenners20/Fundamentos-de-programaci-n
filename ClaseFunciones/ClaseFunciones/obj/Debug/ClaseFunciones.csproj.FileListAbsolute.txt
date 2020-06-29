@@ -1,0 +1,7 @@
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\ClaseFunciones\ClaseFunciones\obj\Debug\ClaseFunciones.csprojAssemblyReference.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\ClaseFunciones\ClaseFunciones\obj\Debug\ClaseFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\ClaseFunciones\ClaseFunciones\bin\Debug\ClaseFunciones.exe.config
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\ClaseFunciones\ClaseFunciones\bin\Debug\ClaseFunciones.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\ClaseFunciones\ClaseFunciones\bin\Debug\ClaseFunciones.pdb
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\ClaseFunciones\ClaseFunciones\obj\Debug\ClaseFunciones.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\ClaseFunciones\ClaseFunciones\obj\Debug\ClaseFunciones.pdb
